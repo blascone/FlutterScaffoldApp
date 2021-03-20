@@ -1,6 +1,6 @@
-# bla_flutter_app
+# Flutter Scaffold App
 
-A new Flutter application.
+A Flutter sample application based of Flutter Gallery's Rally app.
 
 ## Getting Started
 
